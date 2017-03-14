@@ -4,5 +4,5 @@ if (process.env.LOCAL) {
   exports.appPackage = "com.tencent.mm";
   exports.appActivity = "com.tencent.mm.ui.LauncherUI";
 } else {
-  
+  exports.androidApp = undefined
 }

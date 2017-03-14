@@ -1,4 +1,4 @@
-# Test Wechat with Appium
+# UIautomation with Appium
 
 ## Prerequisites
 
